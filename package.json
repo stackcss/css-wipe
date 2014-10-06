@@ -1,0 +1,25 @@
+{
+  "name": "css-wipe",
+  "version": "1.0.0",
+  "description": "Reset the browser's styles",
+  "main": "index.css",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "yoshuawuyts/css-wipe",
+  "keywords": [
+    "reset",
+    "css",
+    "sheetify"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.css",
+    "HISTORY.md"
+  ]
+}
