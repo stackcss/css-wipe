@@ -1,6 +1,6 @@
 {
   "name": "css-wipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reset the browser's styles",
   "main": "index.css",
   "scripts": {
@@ -14,8 +14,7 @@
   ],
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "files": [
     "lib",
     "LICENSE",
