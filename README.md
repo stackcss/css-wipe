@@ -11,7 +11,7 @@ $ npm install css-wipe
 ```
 
 ## Usage
-With [sheetify](https://github.com/requireio/sheetify) or
+With [sheetify](https://github.com/sheetify/sheetify) or
 [cssnext](https://github.com/cssnext/cssnext) installed:
 ```css
 @import 'css-wipe';
