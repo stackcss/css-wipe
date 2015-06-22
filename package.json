@@ -3,22 +3,16 @@
   "version": "2.0.0",
   "description": "Reset the browser's styles",
   "main": "index.css",
-  "scripts": {
-    "test": "make test"
-  },
   "repository": "yoshuawuyts/css-wipe",
   "keywords": [
     "reset",
     "css",
-    "sheetify"
+    "sheetify",
+    "cssnext"
   ],
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {},
   "files": [
-    "lib",
     "LICENSE",
-    "index.css",
-    "HISTORY.md"
+    "index.css"
   ]
 }
