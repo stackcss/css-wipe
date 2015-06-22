@@ -6,15 +6,20 @@ Reset the browser's styles. Based off Eric Meyer's
 [reset.css](http://meyerweb.com/eric/tools/css/reset/).
 
 ## Installation
-```bash
-npm install css-wipe
+```sh
+$ npm install css-wipe
 ```
 
 ## Usage
-With [sheetify](https://github.com/requireio/sheetify) installed:
+With [sheetify](https://github.com/requireio/sheetify) or
+[cssnext](https://github.com/cssnext/cssnext) installed:
 ```css
-@import css-wipe;
+@import 'css-wipe';
 ```
+
+## See Also:
+- [reset.css](http://meyerweb.com/eric/tools/css/reset/).
+- [box-sizing border-box FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
