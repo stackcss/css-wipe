@@ -13,7 +13,9 @@
   "license": "MIT",
   "files": [
     "LICENSE",
-    "index.css"
+    "index.css",
+    "reset.css",
+    "border-box.css"
   ],
   "scripts": {}
 }
