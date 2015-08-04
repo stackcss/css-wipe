@@ -1,2 +1,2 @@
-import './border-box';
-import './reset';
+@import './border-box';
+@import './reset';
