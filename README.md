@@ -2,8 +2,8 @@
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 
-Reset the browser's styles. Based off Eric Meyer's
-[reset.css](http://meyerweb.com/eric/tools/css/reset/).
+Reset the browser's styles. Based
+[html5doctor/reset](http://html5doctor.com/html-5-reset-stylesheet/)
 
 ## Installation
 ```sh
@@ -19,6 +19,7 @@ With [sheetify](https://github.com/sheetify/sheetify) or
 
 ## See Also:
 - [reset.css](http://meyerweb.com/eric/tools/css/reset/).
+- [html5doctor/reset](http://html5doctor.com/html-5-reset-stylesheet/)
 - [box-sizing border-box FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
 ## License
