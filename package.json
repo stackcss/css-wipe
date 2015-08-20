@@ -12,10 +12,7 @@
   ],
   "license": "MIT",
   "files": [
-    "LICENSE",
-    "index.css",
-    "reset.css",
-    "border-box.css"
+    "*.css"
   ],
   "scripts": {}
 }
