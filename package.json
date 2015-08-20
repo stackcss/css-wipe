@@ -1,6 +1,6 @@
 {
   "name": "css-wipe",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Reset the browser's styles",
   "main": "index.css",
   "repository": "yoshuawuyts/css-wipe",
