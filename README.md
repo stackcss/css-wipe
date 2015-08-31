@@ -2,8 +2,17 @@
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 
-Reset the browser's styles. Based
-[html5doctor/reset](http://html5doctor.com/html-5-reset-stylesheet/)
+Reset the browser's styles. The browser should be a blank canvas, having to
+remember quirks is unacceptable. Based on
+[html5doctor/reset](http://html5doctor.com/html-5-reset-stylesheet/).
+
+Features:
+- removes all `padding`, `margin` and `border`
+- wipes decorations
+- sets `box-sizing: border-box` for predictable size calculations
+- resets list style types
+- reset styles on bleeding edge webkit elements
+- and much more
 
 ## Installation
 ```sh
